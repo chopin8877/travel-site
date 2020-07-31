@@ -1,6 +1,7 @@
 {
   "name": "travel-site",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,11 +16,5 @@
   "bugs": {
     "url": "https://github.com/chopin8877/travel-site/issues"
   },
-  "homepage": "https://github.com/chopin8877/travel-site#readme",
-  "dependencies": {
-    "lodash": "^4.17.19",
-    "normalize.css": "^8.0.1"
-  },
-  "devDependencies": {},
-  "description": ""
+  "homepage": "https://github.com/chopin8877/travel-site#readme"
 }
